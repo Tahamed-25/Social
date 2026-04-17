@@ -35,6 +35,7 @@ jobs:
           path: |
             Social1-main/.next/
             Social1-main/public/
+            Social1-main/node_modules/
             Social1-main/package.json
             Social1-main/package-lock.json
             Social1-main/next.config.*
